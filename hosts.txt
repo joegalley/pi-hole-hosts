@@ -1,0 +1,10 @@
+# Other
+#----------------------------------
+0.0.0.0 lgtvsdp.com
+0.0.0.0 us.lgtvsdp.com
+0.0.0.0 discovery.meethue.com
+0.0.0.0 logs.roku.com
+0.0.0.0 fp-vp.azureedge.net
+0.0.0.0 logs.roku.com
+0.0.0.0 tunnel.googlezip.net
+0.0.0.0 customerevents.netflix.com

@@ -13,5 +13,8 @@
 0.0.0.0 yt3.ggpht.com
 0.0.0.0 ravm.tv
 0.0.0.0 p.ravm.tv
+0.0.0.0 lgtvcommon.com
+0.0.0.0 meethue.com
+
 
 

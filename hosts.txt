@@ -8,3 +8,10 @@
 0.0.0.0 logs.roku.com
 0.0.0.0 tunnel.googlezip.net
 0.0.0.0 customerevents.netflix.com
+0.0.0.0 captive.roku.com
+0.0.0.0 keysvc.cs.roku.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 ravm.tv
+0.0.0.0 p.ravm.tv
+
+
